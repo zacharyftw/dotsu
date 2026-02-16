@@ -1,0 +1,9 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export --path PATH:$HOME/\x2eopencode/bin\x1e$HOME/\x2eyarn/bin\x1e$HOME/\x2envm/versions/node/v24\x2e10\x2e0/bin\x1e$HOME/\x2ecargo/bin\x1e$HOME/\x2elocal/share/solana/install/active_release/bin\x1e/usr/lib/ccache/bin/\x1e$HOME/\x2ecargo/bin/\x1e$HOME/\x2elocal/bin/\x1e$HOME/\x2ebun/bin\x1e$HOME/\x2ebun/bin\x1e/usr/local/sbin\x1e/usr/local/bin\x1e/usr/bin\x1e/usr/bin/site_perl\x1e/usr/bin/vendor_perl\x1e/usr/bin/core_perl\x1e$HOME/\x2ecargo/bin
+SETUVAR __fish_initialized:4300
+SETUVAR _fisher_edc_2F_bass_files:\x7e/\x2econfig/fish/functions/__bass\x2epy\x1e\x7e/\x2econfig/fish/functions/bass\x2efish
+SETUVAR _fisher_plugins:edc/bass
+SETUVAR _fisher_upgraded_to_4_4:\x1d
+SETUVAR fish_greeting:
+SETUVAR fish_user_paths:$HOME/\x2eopencode/bin\x1e$HOME/\x2eyarn/bin\x1e$HOME/\x2envm/versions/node/v24\x2e10\x2e0/bin\x1e$HOME/\x2elocal/bin\x1e$HOME/\x2ecargo/bin\x1e$HOME/\x2elocal/share/solana/install/active_release/bin\x1e/usr/lib/ccache/bin/\x1e$HOME/\x2ecargo/bin/\x1e$HOME/\x2elocal/bin/\x1e$HOME/\x2efoundry/bin

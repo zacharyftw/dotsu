@@ -1,0 +1,22 @@
+[user]
+	name = YOUR_NAME
+	email = YOUR_EMAIL@example.com
+	signingkey = YOUR_GPG_KEY
+[credential]
+	helper = store
+[gpg]
+	program = gpg
+[commit]
+	gpgsign = true
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[http]
+	postBuffer = 524288000
+	version = HTTP/1.1
+	lowSpeedLimit = 0
+	lowSpeedTime = 999999
+[lfs]
+	concurrenttransfers = 1
